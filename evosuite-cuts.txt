@@ -1,0 +1,1 @@
+poc.telethon.autojunit.mapper.ProductModelToVoMapper, poc.telethon.autojunit.client.ProductClient, poc.telethon.autojunit.service.ProductService
