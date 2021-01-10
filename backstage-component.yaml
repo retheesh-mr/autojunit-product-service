@@ -1,4 +1,4 @@
-apiVersion: retheesh-mr/product-service-v1
+apiVersion: retheesh-mr/v1productservice
 kind: Component
 metadata:
   name: product-service
