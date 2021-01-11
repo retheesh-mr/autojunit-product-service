@@ -11,7 +11,7 @@ import poc.telethon.autojunit.service.ProductService;
 import poc.telethon.autojunit.vo.ProductVo;
 
 @RestController
-@RequestMapping("/autojunit-products")
+@RequestMapping("/products")
 public class ProductController {
 
     @Autowired
