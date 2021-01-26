@@ -6,7 +6,7 @@ metadata:
   annotations:
     github.com/project-slug: retheesh-mr/autojunit-product-service
     sonarqube.org/project-key: retheesh-mr_autojunit-product-service
-    appmetrics/project-key: autojunit-product-service
+    appmetrics/project-target: autojunit-product-service-metrics
   tags:
     - java
     - data
